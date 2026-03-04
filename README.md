@@ -1,4 +1,4 @@
-## Kickstarter Crowdfunding Analysis
+### Kickstarter Crowdfunding Analysis
 # 📌 Project Overview
 This project analyzes Kickstarter crowdfunding campaign data to identify key factors that influence project success and failure. 
 The dataset was cleaned, transformed, and analyzed to uncover meaningful insights that can help in making data-driven decisions for future crowdfunding campaigns
